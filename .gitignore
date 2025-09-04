@@ -38,3 +38,6 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# plan
+second_brain_plan.md
